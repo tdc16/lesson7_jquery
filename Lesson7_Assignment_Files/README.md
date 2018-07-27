@@ -13,7 +13,7 @@ Thomas Cascio
 Edited a recipe website to slowly show the ingredients and instructions when clicked on.
 
 ### View Project Online:
-https://tdc16.github.io/lesson7_jquery/lesson7_assingment_files
+https://github.com/tdc16/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
 1. The first() jQuery Method narrows the group of selected elements to the first element.
